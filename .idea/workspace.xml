@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339de226-9941-431f-8538-18fddfc4147e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/CompreBemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/controller/ProdutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/entity/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/entity/dto/CriarProdutoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/entity/dto/ProdutoResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/exception/EntidadeNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/exception/ErroRespostaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/repository/ProdutoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/java/com/cris/comprebem/service/ProdutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/backend/src/test/java/com/cris/comprebem/CompreBemApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/AGENTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/CLAUDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/assets/adaptive-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/assets/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/assets/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/assets/splash-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/components/DetalheProduto.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/components/NovoProdutoModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/components/ProdutoItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/screens/TelaDetalheProduto.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/screens/TelaListaProdutos.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/service/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/service/produtoService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/theme/theme.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/types/Produto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/src/types/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compre-bem-main/frontend/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="339de226-9941-431f-8538-18fddfc4147e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +26,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Cristiano Alves/Downloads/compre-bem-main",
     "project.structure.last.edited": "Project",
